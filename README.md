@@ -1,2 +1,2 @@
-# -Repository-Title-Shop-Inventory-and-Order-Database-Design-
+# Shop Inventory and Order Database Design 
 Created using MySQL
